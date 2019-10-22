@@ -13,7 +13,7 @@ setup(
         'klassify.backend',
     ],
     install_requires=[
-        'nltk==3.1',
+        'nltk==3.4.5',
         'tornado==4.3',
         'tornado-redis==2.4.18'
     ],
